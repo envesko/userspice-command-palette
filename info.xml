@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>Command Palette</name>
+  <author>Envesko</author>
+  <website>https://github.com/envesko/userspice-command-palette</website>
+  <version>1.0.0</version>
+  <release>July 6, 2026</release>
+  <tested>6.1.0</tested>
+  <fa_icon>fa-terminal</fa_icon>
+  <description>Keyboard-driven command palette (Ctrl+K) for quick navigation. Portable UserSpice plugin with site-specific command registration via hooks.</description>
+  <button>Command Palette</button>
+</plugin>
